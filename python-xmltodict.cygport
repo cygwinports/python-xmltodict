@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-xmltodict"
+VERSION=0.11.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python module which transforms XML to JSON"
+DESCRIPTION="xmltodict is a Python module that makes working with XML feel
+like you are working with JSON."
+
+ARCH=noarch
